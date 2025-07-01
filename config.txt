@@ -4,7 +4,7 @@ log   # file name
 0     # enable on startup (0/1)
 on:fixedFrequency
 1000     # frequency
-1     # mode (0: disabled, 1: synchronous stabilizer, 2: asynchronous)
+2     # mode (0: disabled, 1: synchronous stabilizer, 2: asynchronous)
 acc.x
 acc.y
 acc.z
