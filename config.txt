@@ -1,0 +1,17 @@
+1     # version
+2048   # buffer size in bytes
+log   # file name
+0     # enable on startup (0/1)
+on:fixedFrequency
+1000     # frequency
+1     # mode (0: disabled, 1: synchronous stabilizer, 2: asynchronous)
+acc.x
+acc.y
+acc.z
+gyro.x
+gyro.y
+gyro.z
+motor.m1
+motor.m2
+motor.m3
+motor.m4
